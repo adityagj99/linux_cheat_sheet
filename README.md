@@ -81,4 +81,5 @@ To search files `locate helloworld`.
 ---
 >`ping`
 >To check internet connection `ping www.google.com` 
+---
 
