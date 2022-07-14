@@ -82,4 +82,6 @@ To search files `locate helloworld`.
 >`ping`
 >To check internet connection `ping www.google.com` 
 ---
+>`apt list -installed`
+>To list all installed apps in system
 
