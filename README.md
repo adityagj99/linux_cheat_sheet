@@ -85,3 +85,6 @@ To search files `locate helloworld`.
 >`apt list -installed`
 >To list all installed apps in system
 ---
+>`apt list --installed | grep <package name>`
+>To list packages by name
+---
